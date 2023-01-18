@@ -1,11 +1,8 @@
-<script>
-// JavaScript to add the active class on click
-const links = document.querySelectorAll("nav a");
-links.forEach(link => {
-  link.addEventListener("click", e => {
-    e.preventDefault();
-    links.forEach(link => link.classList.remove("active"));
-    e.target.classList.add("active");
-  });
-});
-</script>
+<nav>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">Mijn werkpad</a></li>
+    <li><a href="#services">Sertivicaten</a></li>
+    <li><a href="#contact">Toetsen</a></li>
+  </ul>
+</nav>
