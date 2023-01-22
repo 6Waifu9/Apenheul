@@ -1,4 +1,4 @@
 @extends('layouts.mainlayout')
 @section('content')
-<h1>AAP NOOT MIES</h1>
+<h1>bier</h1>
 @endsection
