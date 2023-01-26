@@ -2,12 +2,11 @@
 @section('content')
 <div>
     leer paden om te volgen
-    <div class="button_traject">
-        <button>basis veiligheid 1</button>
-        <button>basis veiligheid 1</button>
-        <button>basis veiligheid 1</button>
-            
-    <div></div>
+    <div id="knopje" style="margin: auto; width: 50%; padding: 10px;">
+        <button type="button" class="btn btn-primary">basis veiligheid 3</button>
+        <button type="button" class="btn btn-primary">basis veiligheid 3</button>
+        <button type="button" class="btn btn-primary">basis veiligheid 3</button>
+        <div></div>
 
-</div>
-@endsection
+    </div>
+    @endsection
