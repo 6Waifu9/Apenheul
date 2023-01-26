@@ -1,4 +1,13 @@
 @extends('layouts.mainlayout')
 @section('content')
-<h1>bier</h1>
+<div>
+    leer paden om te volgen
+    <div class="button_traject">
+        <button>basis veiligheid 1</button>
+        <button>basis veiligheid 1</button>
+        <button>basis veiligheid 1</button>
+            
+    <div></div>
+
+</div>
 @endsection

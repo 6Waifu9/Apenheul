@@ -51,3 +51,8 @@
       float: none;
     }
   }
+  .button_traject {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
