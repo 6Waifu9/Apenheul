@@ -25,3 +25,9 @@
     background-color: #04AA6D;
     color: white;
   }
+
+.button_traject {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
