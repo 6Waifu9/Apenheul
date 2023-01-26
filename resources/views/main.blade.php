@@ -9,7 +9,6 @@
         <div></div>
 
     </div>
-    @endsection
     =======
     <h1>LOrem</h1>
     @endsection
